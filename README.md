@@ -6,5 +6,7 @@
 ![image](https://github.com/user-attachments/assets/e65f519a-5de5-4715-95ed-05fc5ed0b3b8)
 
 
+yarn install
 
+yarn serve
 
